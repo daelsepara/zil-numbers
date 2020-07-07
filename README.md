@@ -1,6 +1,6 @@
 # zil-numbers
 
-Demonstrates how to get numbers from user input using READLINE. It can also be used with different bases, e.g. base 2, 10, 16, etc, up to base 36 (using characters a-z for numbers greater than 10)
+Demonstrates how to get numbers from user input using **READLINE**. It can also be used with different bases, e.g. base 2, 10, 16, etc, up to base 36 (using characters a-z for numbers greater than 10)
 
 ## POWER (BASE EXP)
 
@@ -10,7 +10,7 @@ Demonstrates how to get numbers from user input using READLINE. It can also be u
 
 ## CONVERT-TO-NUMBER (N "OPT" BASE)
 
-- Converts the N-th word of the user input (after **<READLINE>**) to integer
+- Converts the N-th word of the user input to integer. To be used after calling **READLINE**
 - If **BASE** is not provided, it defaults to 10.
-- actual conversion is done by ** <GET-DIGIT> ** and ** <TO-INTEGER> **
+- actual conversion is done by **GET-DIGIT** and **TO-INTEGER** routines
 
