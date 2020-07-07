@@ -12,5 +12,5 @@ Demonstrates how to get numbers from user input using READLINE. It can also be u
 
 - Converts the N-th word of the user input (after **<READLINE>**) to integer
 - If **BASE** is not provided, it defaults to 10.
-- actual conversion is done by **<GET-DIGIT>** and **<TO-INTEGER>**
+- actual conversion is done by ** <GET-DIGIT> ** and ** <TO-INTEGER> **
 
